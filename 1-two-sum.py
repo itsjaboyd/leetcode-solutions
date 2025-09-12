@@ -1,6 +1,7 @@
 import typing
 
-# Problem 1: https://leetcode.com/problems/two-sum/
+# Problem 1: Two-Sum
+# https://leetcode.com/problems/two-sum/
 
 # Intuition
 
